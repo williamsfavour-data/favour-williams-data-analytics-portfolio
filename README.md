@@ -140,9 +140,9 @@ To help organizations and individuals turn **raw data into meaningful informatio
 
 **Favour Williams**
 
-- LinkedIn: [Add your LinkedIn profile here]
-- Email: [Add your professional email here]
-- Freelance services: [Add your Fiverr/Upwork profile when ready]
+- LinkedIn: https://www.linkedin.com/in/favour-williams-10477823b
+- Email: williamsfavourifunanya@gmail.com
+
 
 ---
 
