@@ -43,7 +43,7 @@ Exploring customer churn data to understand customer retention patterns and iden
 - Visualization and reporting
 - Business insights
 
-[Explore Repository](.)
+[view Customer Churn Analysis](.https://github.com/williamsfavour-data/favour-williams-data-analytics-portfolio/tree/69ebbacb9b5a68dcc3cadcecb35879f0c5e7e0c0/Project-2-Customer-Churn-Analysis)
 
 ### 3. Sales Performance Analysis
 
